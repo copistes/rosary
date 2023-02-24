@@ -216,19 +216,18 @@ Can you explain this mystery in a short sermon of a few sentences : '{}'").forma
             temperature=0.2,
         )
 
-        # Make sure to save the sermons
+        if False:
+            if "sermons" not in self.config:
+                self.config["sermons"] = {}
 
-        if "sermons" not in self.config:
-            self.config["sermons"] = {}
+            if not self.current_myst in self.config["sermons"]:
+                self.config["sermons"][self.current_myst] = {}
 
-        if not self.current_myst in self.config["sermons"]:
-            self.config["sermons"][self.current_myst] = {}
+            if mystery not in self.config["sermons"][self.current_myst]:
+                self.config["sermons"][self.current_myst][mystery] = []
 
-        if mystery not in self.config["sermons"][self.current_myst]:
-            self.config["sermons"][self.current_myst][mystery] = []
-
-        self.config["sermons"][self.current_myst][mystery].append(
-            response.choices[0].text)
+            self.config["sermons"][self.current_myst][mystery].append(
+                response.choices[0].text)
 
         if not response:
             return None
@@ -316,10 +315,15 @@ def run():
                         help=_("Disable CHAT GPT sermon"))
     parser.add_argument('-s', "--single",  action='store_true',
                         help=_("Only do a single step"))
+    parser.add_argument('-p', "--print",  action='store_true',
+                        help=_("Only print current rosary and liturgical time"))
 
     args = parser.parse_args(sys.argv[1:])
 
     r = rosary(nosermon=args.nosermon)
+
+    if args.print:
+        sys.exit(0)
 
     if args.reset:
         r.reset()
