@@ -1,0 +1,257 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2023-02-23 17:19+0100\n"
+"PO-Revision-Date: 2023-02-23 17:28+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it\n"
+"X-Generator: Poedit 2.4.2\n"
+
+#: cli.py:74 cli.py:76 cli.py:298
+msgid "Hail Mary"
+msgstr "Ave Maria"
+
+#: cli.py:74 cli.py:298
+msgid "Credo"
+msgstr ""
+
+#: cli.py:75 cli.py:298
+msgid "Glory to the Father"
+msgstr "Gloria al Padre"
+
+#: cli.py:75 cli.py:298
+msgid "Our Father"
+msgstr "Padre nostro"
+
+#: cli.py:86
+msgid "The Annunciation of the Angel Gabriel to Mary"
+msgstr "Annunciazione dell'angelo Gabriele a Maria"
+
+#: cli.py:87
+msgid "The Visitation of Mary to Elizabeth"
+msgstr "La Visitazione di Maria a Elisabetta"
+
+#: cli.py:88
+msgid "The Birth of Jesus in Bethlehem of Judea"
+msgstr "La nascita di Gesù a Betlemme di Giudea"
+
+#: cli.py:89
+msgid "The Presentation of Jesus in the Temple"
+msgstr "La presentazione di Gesù al tempio"
+
+#: cli.py:90
+msgid "The Finding of Jesus in the Temple"
+msgstr "Il ritrovamento di Gesù nel tempio"
+
+#: cli.py:92
+msgid "Jesus' Baptism in the Jordan"
+msgstr "Battesimo di Gesù nel Giordano"
+
+#: cli.py:93
+msgid "The Wedding at Cana"
+msgstr "Le Nozze di Cana"
+
+#: cli.py:94
+msgid "The Proclamation of the Kingdom"
+msgstr "L'annuncio del Regno"
+
+#: cli.py:95
+msgid "The Transfiguration"
+msgstr "La Trasfigurazione"
+
+#: cli.py:96
+msgid "The Institution of the Eucharist"
+msgstr "L'Istituzione dell'Eucaristia"
+
+#: cli.py:98
+msgid "The Agony of Jesus in the Garden of Gethsemane"
+msgstr "L'agonia di Gesù nell'orto del Getsemani"
+
+#: cli.py:99
+msgid "The Scourging of Jesus at the Pillar"
+msgstr "La flagellazione di Gesù alla colonna"
+
+#: cli.py:100
+msgid "The Crowning of Jesus with Thorns"
+msgstr "L'incoronazione di Gesù con le spine"
+
+#: cli.py:101
+msgid "The Carrying of the Cross"
+msgstr "Il trasporto della croce"
+
+#: cli.py:102
+msgid "The Crucifixion and Death of Jesus"
+msgstr "La crocifissione e la morte di Gesù"
+
+#: cli.py:104
+msgid "The Resurrection of Jesus"
+msgstr "La risurrezione di Gesù"
+
+#: cli.py:105
+msgid "The Ascension of Jesus into Heaven"
+msgstr "L'ascensione di Gesù al cielo"
+
+#: cli.py:106
+msgid "The Descent of the Holy Spirit at Pentecost"
+msgstr "La discesa dello Spirito Santo a Pentecoste"
+
+#: cli.py:107
+msgid "The Assumption of Mary into Heaven"
+msgstr "L'Assunzione di Maria al Cielo"
+
+#: cli.py:108
+msgid "The Coronation of Our Lady in Heaven"
+msgstr "L'incoronazione della Madonna in cielo"
+
+#: cli.py:130 cli.py:136
+msgid "Glorious Mysteries"
+msgstr "Misteri gloriosi"
+
+#: cli.py:132 cli.py:142
+msgid "Joyful Mysteries"
+msgstr "Misteri gioiosi"
+
+#: cli.py:134 cli.py:140
+msgid "Sorrowful Mysteries"
+msgstr "Misteri Dolorosi"
+
+#: cli.py:138
+msgid "Luminous Mysteries"
+msgstr "Misteri luminosi"
+
+#: cli.py:148
+msgid "Monday"
+msgstr "lunedì"
+
+#: cli.py:149
+msgid "Tuesday"
+msgstr "martedì"
+
+#: cli.py:150
+msgid "Wednesday"
+msgstr "mercoledì"
+
+#: cli.py:151
+msgid "Thursday"
+msgstr "giovedì"
+
+#: cli.py:152
+msgid "Friday"
+msgstr "venerdì"
+
+#: cli.py:153
+msgid "Saturday"
+msgstr "sabato"
+
+#: cli.py:154
+msgid "Sunday"
+msgstr "Domenica"
+
+#: cli.py:163
+msgid "Advent"
+msgstr "Avvento"
+
+#: cli.py:164
+msgid "Christmas Day"
+msgstr "Il giorno di Natale"
+
+#: cli.py:165
+msgid "Christmas Season"
+msgstr "Periodo natalizio"
+
+#: cli.py:166
+msgid "Epiphany"
+msgstr "Epifania"
+
+#: cli.py:167
+msgid "Baptism of the Lord"
+msgstr "Battesimo del Signore"
+
+#: cli.py:168
+msgid "Transfiguration Sunday"
+msgstr "Domenica della Trasfigurazione"
+
+#: cli.py:169
+msgid "Ash Wednesday"
+msgstr "Mercoledì delle Ceneri"
+
+#: cli.py:170
+msgid "Lent"
+msgstr "Quaresima"
+
+#: cli.py:171
+msgid "Maunday Thursday"
+msgstr "Martedì giovedì"
+
+#: cli.py:172
+msgid "Good Friday"
+msgstr "Venerdì Santo"
+
+#: cli.py:173
+msgid "Holy Saturday"
+msgstr "Sabato Santo"
+
+#: cli.py:174
+msgid "Easter Sunday"
+msgstr "Domenica di Pasqua"
+
+#: cli.py:175
+msgid "Easter Season"
+msgstr "Tempo di Pasqua"
+
+#: cli.py:176
+msgid "Pentecost"
+msgstr "Pentecoste"
+
+#: cli.py:177
+msgid "Trinity Sunday"
+msgstr "Domenica della Trinità"
+
+#: cli.py:178
+msgid "Christ the King"
+msgstr "Cristo Re"
+
+#: cli.py:179
+msgid "Ordinary Time"
+msgstr "Tempo Ordinario"
+
+#: cli.py:197
+msgid "[white]{}[/white] of [{}]{}[/{}] studying [italic]{}[/italic]"
+msgstr "[white]{}[/white] di [{}]{}[/{}] che studia [italic]{}[/italic]"
+
+#: cli.py:213
+msgid "You are praying intensely recitating the rosary and going through the mysteries of the holly rosary.You want the people to do the rosary with you to feel deeply the meaning of each mystery.Can you explain this mystery in a short sermon of a few sentences : '{}'"
+msgstr "Stai pregando intensamente recitando il rosario e attraversando i misteri del santo rosario. Vuoi che le persone recitino il rosario con te per sentire profondamente il significato di ogni mistero. Puoi spiegare questo mistero in un breve sermone di pochi "
+
+#: cli.py:299
+msgid "Generating mystery's description..."
+msgstr "Generazione della descrizione del mistero..."
+
+#: cli.py:318
+msgid "Rosary an app to pray during the programmer's day."
+msgstr "Rosary un'app per pregare durante la giornata del programmatore."
+
+#: cli.py:321
+msgid "Reset current rosary"
+msgstr "Reimposta il rosario corrente"
+
+#: cli.py:323
+msgid "Disable CHAT GPT sermon"
+msgstr "Disabilita sermone CHAT GPT"
+
+#: cli.py:325
+msgid "Only do a single step"
+msgstr "Fai solo un singolo passaggio"
+
+#: cli.py:333
+msgid "Current rosary restarted"
+msgstr "L'attuale rosario è stato riavviato"

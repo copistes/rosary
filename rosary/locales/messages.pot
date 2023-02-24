@@ -1,0 +1,257 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2023-02-23 17:19+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+
+
+#: ./cli.py:74 ./cli.py:76 ./cli.py:298
+msgid "Hail Mary"
+msgstr ""
+
+#: ./cli.py:74 ./cli.py:298
+msgid "Credo"
+msgstr ""
+
+#: ./cli.py:75 ./cli.py:298
+msgid "Glory to the Father"
+msgstr ""
+
+#: ./cli.py:75 ./cli.py:298
+msgid "Our Father"
+msgstr ""
+
+#: ./cli.py:86
+msgid "The Annunciation of the Angel Gabriel to Mary"
+msgstr ""
+
+#: ./cli.py:87
+msgid "The Visitation of Mary to Elizabeth"
+msgstr ""
+
+#: ./cli.py:88
+msgid "The Birth of Jesus in Bethlehem of Judea"
+msgstr ""
+
+#: ./cli.py:89
+msgid "The Presentation of Jesus in the Temple"
+msgstr ""
+
+#: ./cli.py:90
+msgid "The Finding of Jesus in the Temple"
+msgstr ""
+
+#: ./cli.py:92
+msgid "Jesus' Baptism in the Jordan"
+msgstr ""
+
+#: ./cli.py:93
+msgid "The Wedding at Cana"
+msgstr ""
+
+#: ./cli.py:94
+msgid "The Proclamation of the Kingdom"
+msgstr ""
+
+#: ./cli.py:95
+msgid "The Transfiguration"
+msgstr ""
+
+#: ./cli.py:96
+msgid "The Institution of the Eucharist"
+msgstr ""
+
+#: ./cli.py:98
+msgid "The Agony of Jesus in the Garden of Gethsemane"
+msgstr ""
+
+#: ./cli.py:99
+msgid "The Scourging of Jesus at the Pillar"
+msgstr ""
+
+#: ./cli.py:100
+msgid "The Crowning of Jesus with Thorns"
+msgstr ""
+
+#: ./cli.py:101
+msgid "The Carrying of the Cross"
+msgstr ""
+
+#: ./cli.py:102
+msgid "The Crucifixion and Death of Jesus"
+msgstr ""
+
+#: ./cli.py:104
+msgid "The Resurrection of Jesus"
+msgstr ""
+
+#: ./cli.py:105
+msgid "The Ascension of Jesus into Heaven"
+msgstr ""
+
+#: ./cli.py:106
+msgid "The Descent of the Holy Spirit at Pentecost"
+msgstr ""
+
+#: ./cli.py:107
+msgid "The Assumption of Mary into Heaven"
+msgstr ""
+
+#: ./cli.py:108
+msgid "The Coronation of Our Lady in Heaven"
+msgstr ""
+
+#: ./cli.py:130 ./cli.py:136
+msgid "Glorious Mysteries"
+msgstr ""
+
+#: ./cli.py:132 ./cli.py:142
+msgid "Joyful Mysteries"
+msgstr ""
+
+#: ./cli.py:134 ./cli.py:140
+msgid "Sorrowful Mysteries"
+msgstr ""
+
+#: ./cli.py:138
+msgid "Luminous Mysteries"
+msgstr ""
+
+#: ./cli.py:148
+msgid "Monday"
+msgstr ""
+
+#: ./cli.py:149
+msgid "Tuesday"
+msgstr ""
+
+#: ./cli.py:150
+msgid "Wednesday"
+msgstr ""
+
+#: ./cli.py:151
+msgid "Thursday"
+msgstr ""
+
+#: ./cli.py:152
+msgid "Friday"
+msgstr ""
+
+#: ./cli.py:153
+msgid "Saturday"
+msgstr ""
+
+#: ./cli.py:154
+msgid "Sunday"
+msgstr ""
+
+#: ./cli.py:163
+msgid "Advent"
+msgstr ""
+
+#: ./cli.py:164
+msgid "Christmas Day"
+msgstr ""
+
+#: ./cli.py:165
+msgid "Christmas Season"
+msgstr ""
+
+#: ./cli.py:166
+msgid "Epiphany"
+msgstr ""
+
+#: ./cli.py:167
+msgid "Baptism of the Lord"
+msgstr ""
+
+#: ./cli.py:168
+msgid "Transfiguration Sunday"
+msgstr ""
+
+#: ./cli.py:169
+msgid "Ash Wednesday"
+msgstr ""
+
+#: ./cli.py:170
+msgid "Lent"
+msgstr ""
+
+#: ./cli.py:171
+msgid "Maunday Thursday"
+msgstr ""
+
+#: ./cli.py:172
+msgid "Good Friday"
+msgstr ""
+
+#: ./cli.py:173
+msgid "Holy Saturday"
+msgstr ""
+
+#: ./cli.py:174
+msgid "Easter Sunday"
+msgstr ""
+
+#: ./cli.py:175
+msgid "Easter Season"
+msgstr ""
+
+#: ./cli.py:176
+msgid "Pentecost"
+msgstr ""
+
+#: ./cli.py:177
+msgid "Trinity Sunday"
+msgstr ""
+
+#: ./cli.py:178
+msgid "Christ the King"
+msgstr ""
+
+#: ./cli.py:179
+msgid "Ordinary Time"
+msgstr ""
+
+#: ./cli.py:197
+msgid "[white]{}[/white] of [{}]{}[/{}] studying [italic]{}[/italic]"
+msgstr ""
+
+#: ./cli.py:213
+msgid "You are praying intensely recitating the rosary and going through the mysteries of the holly rosary.You want the people to do the rosary with you to feel deeply the meaning of each mystery.Can you explain this mystery in a short sermon of a few sentences : '{}'"
+msgstr ""
+
+#: ./cli.py:299
+msgid "Generating mystery's description..."
+msgstr ""
+
+#: ./cli.py:318
+msgid "Rosary an app to pray during the programmer's day."
+msgstr ""
+
+#: ./cli.py:321
+msgid "Reset current rosary"
+msgstr ""
+
+#: ./cli.py:323
+msgid "Disable CHAT GPT sermon"
+msgstr ""
+
+#: ./cli.py:325
+msgid "Only do a single step"
+msgstr ""
+
+#: ./cli.py:333
+msgid "Current rosary restarted"
+msgstr ""
+
